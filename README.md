@@ -10,7 +10,7 @@ Curso: Engenharia da Computação
    
 O objetivo deste trabalho foi desenvolver, em linguagem C# e utilizando o paradigma de programação orientada a objetos, uma estrutura de dados do tipo Árvore AVL (Árvore Binária de Busca Balanceada), implementando as operações de inserção, remoção, busca, impressão (pré-ordem), cálculo de fatores de balanceamento e altura da árvore.
 
-3. Operações realizadas no codigo:
+2. Operações realizadas no codigo:
    
 • I valor: Inserir um valor na ́arvore.
 
